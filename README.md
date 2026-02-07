@@ -49,7 +49,7 @@ Native macOS app displaying real-time GitHub contribution stats.
 
 - 💼 [LinkedIn](https://linkedin.com/in/preethamkyanam)
 - 📧 [kyanam.preetham@gmail.com](mailto:kyanam.preetham@gmail.com)
-- 🌐 Portfolio (coming soon)
+- 🌐 [Portfolio](https://preetham.org/)
 
 ---
 
