@@ -27,6 +27,13 @@ https://github.com/pkyanam/ArduRoomba
 
 ## 🧠 AI, Agents, and Developer Tools
 
+### claude-ps5-mcp
+![npm downloads](https://img.shields.io/npm/dt/claude-ps5-mcp)
+MCP server allowing Claude Code to discover and wake PlayStation 5 consoles programmatically.
+
+- Used by Claude Code users to control real hardware
+
+
 ### rustyclaw
 Tiny OpenClaw alternative built in Rust for running autonomous coding agents locally.
 
@@ -46,14 +53,6 @@ Full open-source AI agent platform with chat UI, skills, and MCP support.
 
 **Tech:** TypeScript, React, Convex, AI agents  
 https://github.com/pkyanam/clawsync
-
-
-![npm downloads](https://img.shields.io/npm/dt/claude-ps5-mcp)
-
-### claude-ps5-mcp
-MCP server allowing Claude Code to discover and wake PlayStation 5 consoles programmatically.
-
-- Used by Claude Code users to control real hardware
 
 
 **Tech:** TypeScript, MCP protocol, network discovery  
