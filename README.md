@@ -29,6 +29,7 @@ https://github.com/pkyanam/ArduRoomba
 
 ### claude-ps5-mcp
 ![npm downloads](https://img.shields.io/npm/dt/claude-ps5-mcp)
+
 MCP server allowing Claude Code to discover and wake PlayStation 5 consoles programmatically.
 
 - Used by Claude Code users to control real hardware
