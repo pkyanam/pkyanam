@@ -1,56 +1,190 @@
 # Hey, I'm Preetham 👋
 
-**Computer Engineer** building at the intersection of **hardware, software, and AI**.
+**Computer Engineer** building at the intersection of **hardware, software, emulation, and AI systems**.
 
-🎓 B.S. in Computer Engineering from **Virginia Tech**  
-🛠️ Currently working on logistics automation + AI-powered developer tools  
-🤖 Passionate about **robotics, embedded systems, and low-level programming**
-
----
-
-## 🚀 What I'm Building
-
-### 🦾 [ArduRoomba](https://github.com/pkyanam/ArduRoomba)
-Open-source Arduino library for iRobot Roomba interfacing — **35+ stars**, actively maintained.  
-*Technologies: C++, Arduino, UART, robotics control*
-
-### 🎮 [GBA-Next](https://github.com/pkyanam/gba-next)
-Game Boy Advance emulator built from scratch in TypeScript/Next.js with cycle-accurate ARM7TDMI emulation.  
-*Technologies: TypeScript, Next.js, systems programming, emulation*
-
-### 🤖 [CLI-PK](https://github.com/pkyanam/cli-pk)
-AI-powered terminal coding assistant with multi-provider LLM support and self-reasoning error recovery.  
-*Technologies: Node.js, Anthropic Claude, OpenRouter, CLI design*
-
-### 🍎 [GitHub Contributions Menu Bar](https://github.com/pkyanam/gh-contributions-macos-menu-bar)
-Native macOS app displaying real-time GitHub contribution stats.  
-*Technologies: Swift, SwiftUI, macOS development*
+🎓 B.S. in Computer Engineering — Virginia Tech  
+🛠️ Building AI developer tools, robotics software, and low-level systems  
+🤖 Passionate about embedded systems, emulation, and agent infrastructure  
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-**Languages:** C, C++, Python, JavaScript, TypeScript, Swift  
-**Embedded & Hardware:** Arduino, ARM Cortex, Raspberry Pi, UART/SPI/I2C  
-**Web & Cloud:** React, Node.js, Next.js, AWS (Lambda, SQS, EC2), Docker  
-**Tools:** Git, GitHub Actions, Terraform, Jenkins, Jira
+## 🤖 Robotics & Embedded Systems
 
----
+### 🦾 ArduRoomba
+Arduino library enabling full control of iRobot Roomba robots via Create 2 Open Interface spec.
 
-## 📜 Certifications
+- ⭐ 35+ stars
+- Real hardware integration
+- Used in robotics automation projects
 
-✅ **AWS Certified Cloud Practitioner**  
-✅ **AWS AI Practitioner**  
-🔄 **AWS Machine Learning Engineer** (in progress)
+**Tech:** C++, Arduino, UART, embedded systems  
+https://github.com/pkyanam/ArduRoomba
 
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/preethamkyanam)
-- 📧 [kyanam.preetham@gmail.com](mailto:kyanam.preetham@gmail.com)
-- 🌐 [Portfolio](https://preetham.org/)
 
 ---
 
-💡 *Open to opportunities in robotics, embedded systems, and software engineering. Let's build something cool.*
+## 🧠 AI, Agents, and Developer Tools
+
+### rustyclaw
+Tiny OpenClaw alternative built in Rust for running autonomous coding agents locally.
+
+**Tech:** Rust, agent systems, CLI tools  
+https://github.com/pkyanam/rustyclaw
+
+
+### CLI-PK
+AI-powered terminal coding assistant supporting Claude, OpenRouter, and multi-model workflows.
+
+**Tech:** JavaScript, Node.js, CLI tooling, LLM APIs  
+https://github.com/pkyanam/cli-pk
+
+
+### clawsync
+Full open-source AI agent platform with chat UI, skills, and MCP support.
+
+**Tech:** TypeScript, React, Convex, AI agents  
+https://github.com/pkyanam/clawsync
+
+
+### claude-ps5-mcp
+MCP server allowing Claude Code to discover and wake PlayStation 5 consoles programmatically.
+
+**Tech:** TypeScript, MCP protocol, network discovery  
+https://github.com/pkyanam/claude-ps5-mcp
+
+
+### cli-agent-typescript
+Experimental autonomous CLI agent built with TypeScript.
+
+**Tech:** TypeScript, AI agents, CLI systems  
+https://github.com/pkyanam/cli-agent-typescript
+
+
+---
+
+## 🎮 Emulation, Games, and Simulation
+
+### GBA-Next
+Game Boy Advance emulator built in Next.js with ARM7TDMI CPU emulation.
+
+**Tech:** TypeScript, Next.js, systems programming, emulation  
+https://github.com/pkyanam/gba-next
+
+
+### GPTmon
+Playable Pokémon-style game clone built with AI-assisted development.
+
+**Tech:** TypeScript, game systems  
+https://github.com/pkyanam/GPTmon
+
+
+### GPTorio
+Experimental game / simulation project.
+
+**Tech:** TypeScript  
+https://github.com/pkyanam/GPTorio
+
+
+### Fusion Reactor Simulator
+Browser-based fusion physics simulation.
+
+**Tech:** HTML, physics simulation  
+https://github.com/pkyanam/fusion-reactor-simulator
+
+
+---
+
+## 🍎 Native macOS Applications
+
+### OpenClaw Workspace Menu Bar
+Menu bar app for quickly opening OpenClaw workspace folder.
+
+**Tech:** Swift, macOS, SwiftUI  
+https://github.com/pkyanam/openclaw-workspace
+
+
+### GitHub Contributions Menu Bar
+Displays GitHub contributions graph directly in macOS menu bar.
+
+**Tech:** Swift, macOS development  
+https://github.com/pkyanam/gh-contributions-macos-menu-bar
+
+
+---
+
+## 🌐 Platforms, Infrastructure, and Web
+
+### clawchest
+Online store for OpenClaw merchandise.
+
+**Tech:** TypeScript, web platform  
+https://github.com/pkyanam/clawchest
+
+
+### unibot
+Experimental automation and agent tooling.
+
+**Tech:** TypeScript  
+https://github.com/pkyanam/unibot
+
+
+---
+
+## 🧪 Experimental / Infrastructure
+
+### proj
+General development workspace and infrastructure utilities.
+
+**Tech:** Makefile, tooling  
+https://github.com/pkyanam/proj
+
+
+### pkyanam
+Personal GitHub configuration repository.
+
+https://github.com/pkyanam/pkyanam
+
+
+---
+
+# 🛠️ Tech Stack
+
+**Languages**  
+C, C++, Rust, Swift, TypeScript, JavaScript, Python  
+
+**Embedded & Low-Level**  
+Arduino, ARM Cortex, UART, SPI, I2C  
+
+**AI & Agents**  
+Claude, OpenRouter, MCP, agent orchestration  
+
+**Web & Systems**  
+React, Next.js, Node.js, Convex  
+
+**Native & Systems**  
+macOS SwiftUI, CLI tooling, emulation  
+
+**Cloud & Infrastructure**  
+AWS, Docker, GitHub Actions  
+
+---
+
+# 📜 Certifications
+
+AWS Certified Cloud Practitioner  
+AWS AI Practitioner  
+AWS Machine Learning Engineer (in progress)
+
+---
+
+# 📫 Contact
+
+LinkedIn: https://linkedin.com/in/preethamkyanam  
+Email: kyanam.preetham@gmail.com  
+Portfolio: https://preetham.org  
+
+---
+
+*Building the future of robotics, AI agents, and programmable systems.*
