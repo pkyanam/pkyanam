@@ -48,8 +48,13 @@ Full open-source AI agent platform with chat UI, skills, and MCP support.
 https://github.com/pkyanam/clawsync
 
 
+![npm downloads](https://img.shields.io/npm/dt/claude-ps5-mcp)
+
 ### claude-ps5-mcp
 MCP server allowing Claude Code to discover and wake PlayStation 5 consoles programmatically.
+
+- Used by Claude Code users to control real hardware
+
 
 **Tech:** TypeScript, MCP protocol, network discovery  
 https://github.com/pkyanam/claude-ps5-mcp
