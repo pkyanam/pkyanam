@@ -1,195 +1,64 @@
-# Hey, I'm Preetham 👋
+# Hi, I'm Preetham 👋
 
-**Computer Engineer** building at the intersection of **hardware, software, emulation, and AI systems**.
+**Computer Engineer (Virginia Tech)** working at the intersection of **embedded systems, emulation, and AI agent infrastructure.**
 
-🎓 B.S. in Computer Engineering — Virginia Tech  
-🛠️ Building AI developer tools, robotics software, and low-level systems  
-🤖 Passionate about embedded systems, emulation, and agent infrastructure  
+I like the layers — bytes on the wire, transistors on the board, and agents on top.
 
----
-
-# 🚀 Featured Projects
-
-## 🤖 Robotics & Embedded Systems
-
-### 🦾 ArduRoomba
-Arduino library enabling full control of iRobot Roomba robots via Create 2 Open Interface spec.
-
-- ⭐ 35+ stars
-- Real hardware integration
-- Used in robotics automation projects
-
-**Tech:** C++, Arduino, UART, embedded systems  
-https://github.com/pkyanam/ArduRoomba
-
+🌐 [preetham.org](https://preetham.org)  ·  💼 [LinkedIn](https://linkedin.com/in/preethamkyanam)  ·  ✉️ kyanam.preetham@gmail.com
 
 ---
 
-## 🧠 AI, Agents, and Developer Tools
+## 🛠️ Things I'm proud of
 
-### claude-ps5-mcp
-![npm downloads](https://img.shields.io/npm/dt/claude-ps5-mcp)
+### 🦾 [ArduRoomba](https://github.com/pkyanam/ArduRoomba) — `C++` · ⭐ 37
+A modular Arduino library that breathes new life into legacy iRobot Roombas. Full Open Interface support, WiFi web control, and BLE for Arduino Uno R4, ESP32, and ESP8266. Published to the Arduino Library Manager and PlatformIO; [covered by Hackster.io](https://www.hackster.io/news/preetham-kyanam-s-arduroomba-library-puts-your-irobot-roomba-under-arduino-uno-control-147bfae136c6).
 
-MCP server allowing Claude Code to discover and wake PlayStation 5 consoles programmatically.
+### 📦 [pkstack](https://github.com/pkyanam/pkstack) — `TypeScript` · ⭐ 8
+A TypeScript starter kit designed from first principles for **human + AI agent co-development** — the conventions, tooling, and folder layout I wish existed when I started building agents.
 
-- Used by Claude Code users to control real hardware
+### 🧠 [brainbase](https://github.com/pkyanam/brainbase) + [graphbrain](https://github.com/pkyanam/graphbrain) — `TypeScript`
+A knowledge-graph API for AI agents, plus a Neo4j-powered backend with one-click provisioning. Drop-in compatible with the GBrain agent stack. Powering [belweave.ai](https://www.belweave.ai).
 
+### 🎮 [gba-next](https://github.com/pkyanam/gba-next) — `TypeScript`
+A Game Boy Advance emulator built in Next.js with ARM7TDMI CPU emulation, running entirely in the browser. [Try it →](https://gba.agentmeld.com)
 
-### rustyclaw
-Tiny OpenClaw alternative built in Rust for running autonomous coding agents locally.
+### 📱 [codex-ios](https://github.com/pkyanam/codex-ios) — `Swift`
+A native iOS app for OpenAI Codex, plus a Swift SDK for the Codex API. Currently in active development.
 
-**Tech:** Rust, agent systems, CLI tools  
-https://github.com/pkyanam/rustyclaw
-
-
-### CLI-PK
-AI-powered terminal coding assistant supporting Claude, OpenRouter, and multi-model workflows.
-
-**Tech:** JavaScript, Node.js, CLI tooling, LLM APIs  
-https://github.com/pkyanam/cli-pk
-
-
-### clawsync
-Full open-source AI agent platform with chat UI, skills, and MCP support.
-
-**Tech:** TypeScript, React, Convex, AI agents  
-https://github.com/pkyanam/clawsync
-
-
-**Tech:** TypeScript, MCP protocol, network discovery  
-https://github.com/pkyanam/claude-ps5-mcp
-
-
-### cli-agent-typescript
-Experimental autonomous CLI agent built with TypeScript.
-
-**Tech:** TypeScript, AI agents, CLI systems  
-https://github.com/pkyanam/cli-agent-typescript
-
+### 🔌 [claude-ps5-mcp](https://github.com/pkyanam/claude-ps5-mcp) — `TypeScript`
+An MCP server that lets Claude Code discover and wake PS5 consoles on your local network. PSN auth, UDP discovery, and wake-on-LAN, all via natural language. Published to npm.
 
 ---
 
-## 🎮 Emulation, Games, and Simulation
+<!-- LATEST_REPOS:START -->
 
-### GBA-Next
-Game Boy Advance emulator built in Next.js with ARM7TDMI CPU emulation.
+## 📦 Latest from my GitHub
 
-**Tech:** TypeScript, Next.js, systems programming, emulation  
-https://github.com/pkyanam/gba-next
+> _This section refreshes automatically — first run pending._
 
-
-### GPTmon
-Playable Pokémon-style game clone built with AI-assisted development.
-
-**Tech:** TypeScript, game systems  
-https://github.com/pkyanam/GPTmon
-
-
-### GPTorio
-Experimental game / simulation project.
-
-**Tech:** TypeScript  
-https://github.com/pkyanam/GPTorio
-
-
-### Fusion Reactor Simulator
-Browser-based fusion physics simulation.
-
-**Tech:** HTML, physics simulation  
-https://github.com/pkyanam/fusion-reactor-simulator
-
+<!-- LATEST_REPOS:END -->
 
 ---
 
-## 🍎 Native macOS Applications
+## 📊 By the numbers
 
-### OpenClaw Workspace Menu Bar
-Menu bar app for quickly opening OpenClaw workspace folder.
+<a href="https://github.com/pkyanam">
+  <img height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=pkyanam&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Preetham's GitHub stats" />
+  <img height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkyanam&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</a>
 
-**Tech:** Swift, macOS, SwiftUI  
-https://github.com/pkyanam/openclaw-workspace
+## 🧰 Stack
 
+**Languages** — C, C++, Rust, Swift, TypeScript, JavaScript, Python
+**Embedded & low-level** — Arduino, ARM Cortex, ESP32, ESP8266, UART/SPI/I²C
+**AI & agents** — Claude, OpenRouter, MCP, Convex, Neo4j
+**Web & native** — Next.js, React, SwiftUI, Node.js
+**Infra** — AWS, Docker, GitHub Actions
 
-### GitHub Contributions Menu Bar
-Displays GitHub contributions graph directly in macOS menu bar.
+## 📜 Certifications
 
-**Tech:** Swift, macOS development  
-https://github.com/pkyanam/gh-contributions-macos-menu-bar
-
-
----
-
-## 🌐 Platforms, Infrastructure, and Web
-
-### clawchest
-Online store for OpenClaw merchandise.
-
-**Tech:** TypeScript, web platform  
-https://github.com/pkyanam/clawchest
-
-
-### unibot
-Experimental automation and agent tooling.
-
-**Tech:** TypeScript  
-https://github.com/pkyanam/unibot
-
+AWS Certified Cloud Practitioner · AWS AI Practitioner · AWS Machine Learning Engineer (in progress)
 
 ---
 
-## 🧪 Experimental / Infrastructure
-
-### proj
-General development workspace and infrastructure utilities.
-
-**Tech:** Makefile, tooling  
-https://github.com/pkyanam/proj
-
-
-### pkyanam
-Personal GitHub configuration repository.
-
-https://github.com/pkyanam/pkyanam
-
-
----
-
-# 🛠️ Tech Stack
-
-**Languages**  
-C, C++, Rust, Swift, TypeScript, JavaScript, Python  
-
-**Embedded & Low-Level**  
-Arduino, ARM Cortex, UART, SPI, I2C  
-
-**AI & Agents**  
-Claude, OpenRouter, MCP, agent orchestration  
-
-**Web & Systems**  
-React, Next.js, Node.js, Convex  
-
-**Native & Systems**  
-macOS SwiftUI, CLI tooling, emulation  
-
-**Cloud & Infrastructure**  
-AWS, Docker, GitHub Actions  
-
----
-
-# 📜 Certifications
-
-AWS Certified Cloud Practitioner  
-AWS AI Practitioner  
-AWS Machine Learning Engineer (in progress)
-
----
-
-# 📫 Contact
-
-LinkedIn: https://linkedin.com/in/preethamkyanam  
-Email: kyanam.preetham@gmail.com  
-Portfolio: https://preetham.org  
-
----
-
-*Building the future of robotics, AI agents, and programmable systems.*
+<sub>The "Latest from my GitHub" section above is auto-generated daily from the GitHub API by [`scripts/update_readme.py`](scripts/update_readme.py) via [a workflow](.github/workflows/update-readme.yml). Stats cards by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).</sub>
