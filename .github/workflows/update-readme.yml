@@ -1,18 +1,18 @@
 name: Update profile README
 
-on:
+"on":
   schedule:
-    # Daily at 04:17 UTC (a slightly off-the-hour minute to avoid GHA scheduler congestion)
     - cron: "17 4 * * *"
-  workflow_dispatch:        # lets you trigger manually from the Actions tab
+  workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
       - "scripts/update_readme.py"
       - ".github/workflows/update-readme.yml"
 
 permissions:
-  contents: write           # needed for the bot to commit README.md back
+  contents: write
 
 jobs:
   update:
@@ -31,13 +31,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_readme.py
 
-      - name: Commit & push if changed
+      - name: Commit and push if changed
         run: |
           if git diff --quiet README.md; then
             echo "No changes to commit."
             exit 0
           fi
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "chore(readme): refresh latest-repos block"
