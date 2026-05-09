@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [t3code-ios](https://github.com/pkyanam/t3code-ios)
+T3 Code is a minimal iOS GUI for coding agents
+
+`🦅 Swift` · ⭐ 2 · pushed today
+
 ### [codex-ios](https://github.com/pkyanam/codex-ios)
 Codex app for iOS + Codex SDK for Swift
 
-`🦅 Swift` · pushed today
+`🦅 Swift` · ⭐ 3 · pushed yesterday
 
 ### [jellyflex](https://github.com/pkyanam/jellyflex)
 _no description yet_
 
-`🟨 JS` · ⭐ 1 · pushed yesterday
+`🟨 JS` · ⭐ 3 · pushed 2 days ago
 
 ### [brainbase](https://github.com/pkyanam/brainbase)
 Brainbase is a knowledge graph API for AI agents.
 
-`🟦 TS` · ⭐ 2 · pushed 3 days ago · [live ↗](https://www.belweave.ai)
+`🟦 TS` · ⭐ 5 · pushed 4 days ago · [live ↗](https://www.belweave.ai)
 
 ### [graphbrain](https://github.com/pkyanam/graphbrain)
 graphbrainA true graph database backend for GBrain — Neo4j-powered, one-click provisioning, drop-in compatible.
 
-`🟦 TS` · pushed 4 days ago · [live ↗](https://pkyanam.github.io/graphbrain/)
+`🟦 TS` · ⭐ 2 · pushed 5 days ago · [live ↗](https://pkyanam.github.io/graphbrain/)
 
 ### [graphbrain-dashboard](https://github.com/pkyanam/graphbrain-dashboard)
 _no description yet_
 
-`🟨 JS` · pushed 4 days ago
+`🟨 JS` · ⭐ 1 · pushed 5 days ago
 
-### [docs](https://github.com/pkyanam/docs)
-_no description yet_
-
-`📝 MDX` · pushed 9 days ago
-
-<sub>Showing 6 of 26 public, non-fork repos · last updated 2026-05-08</sub>
+<sub>Showing 6 of 27 public, non-fork repos · last updated 2026-05-09</sub>
 
 <!-- LATEST_REPOS:END -->
 
