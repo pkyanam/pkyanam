@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [trifecta](https://github.com/pkyanam/trifecta)
+Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere.
+
+`🟦 TS` · pushed today · [live ↗](https://trifecta.belweave.ai/)
+
 ### [brainbase](https://github.com/pkyanam/brainbase)
 Brainbase is a knowledge graph API for AI agents.
 
-`🟦 TS` · ⭐ 5 · pushed today · [live ↗](https://www.belweave.ai)
+`🟦 TS` · ⭐ 6 · pushed yesterday · [live ↗](https://www.belweave.ai)
 
 ### [t3code-ios](https://github.com/pkyanam/t3code-ios)
 T3 Code is a minimal iOS GUI for coding agents
 
-`🦅 Swift` · ⭐ 3 · pushed today
+`🦅 Swift` · ⭐ 3 · pushed yesterday
 
 ### [codex-ios](https://github.com/pkyanam/codex-ios)
 Codex app for iOS + Codex SDK for Swift
 
-`🦅 Swift` · ⭐ 3 · pushed 2 days ago
+`🦅 Swift` · ⭐ 3 · pushed 3 days ago
 
 ### [jellyflex](https://github.com/pkyanam/jellyflex)
 _no description yet_
 
-`🟨 JS` · ⭐ 3 · pushed 3 days ago
+`🟨 JS` · ⭐ 3 · pushed 4 days ago
 
 ### [graphbrain](https://github.com/pkyanam/graphbrain)
 graphbrainA true graph database backend for GBrain — Neo4j-powered, one-click provisioning, drop-in compatible.
 
-`🟦 TS` · ⭐ 2 · pushed 6 days ago · [live ↗](https://pkyanam.github.io/graphbrain/)
+`🟦 TS` · ⭐ 2 · pushed 7 days ago · [live ↗](https://pkyanam.github.io/graphbrain/)
 
-### [graphbrain-dashboard](https://github.com/pkyanam/graphbrain-dashboard)
-_no description yet_
-
-`🟨 JS` · ⭐ 1 · pushed 6 days ago
-
-<sub>Showing 6 of 27 public, non-fork repos · last updated 2026-05-10</sub>
+<sub>Showing 6 of 28 public, non-fork repos · last updated 2026-05-11</sub>
 
 <!-- LATEST_REPOS:END -->
 
