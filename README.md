@@ -44,29 +44,29 @@ Trifecta is a cross-platform coding agent platform. It consists of a desktop ser
 ### [brainbase](https://github.com/pkyanam/brainbase)
 Brainbase is a knowledge graph API for AI agents.
 
-`🟦 TS` · ⭐ 7 · pushed 21 days ago · [live ↗](https://www.belweave.ai)
+`🟦 TS` · ⭐ 7 · pushed 22 days ago · [live ↗](https://www.belweave.ai)
 
 ### [t3code-ios](https://github.com/pkyanam/t3code-ios)
 T3 Code is a minimal iOS GUI for coding agents
 
-`🦅 Swift` · ⭐ 3 · pushed 21 days ago
+`🦅 Swift` · ⭐ 3 · pushed 22 days ago
 
 ### [codex-ios](https://github.com/pkyanam/codex-ios)
 Codex app for iOS + Codex SDK for Swift
 
-`🦅 Swift` · ⭐ 3 · pushed 23 days ago
+`🦅 Swift` · ⭐ 3 · pushed 24 days ago
 
 ### [jellyflex](https://github.com/pkyanam/jellyflex)
 _no description yet_
 
-`🟨 JS` · ⭐ 3 · pushed 24 days ago
+`🟨 JS` · ⭐ 3 · pushed 25 days ago
 
 ### [graphbrain](https://github.com/pkyanam/graphbrain)
 graphbrainA true graph database backend for GBrain — Neo4j-powered, one-click provisioning, drop-in compatible.
 
-`🟦 TS` · ⭐ 3 · pushed 27 days ago · [live ↗](https://pkyanam.github.io/graphbrain/)
+`🟦 TS` · ⭐ 3 · pushed 28 days ago · [live ↗](https://pkyanam.github.io/graphbrain/)
 
-<sub>Showing 6 of 28 public, non-fork repos · last updated 2026-05-31</sub>
+<sub>Showing 6 of 28 public, non-fork repos · last updated 2026-06-01</sub>
 
 <!-- LATEST_REPOS:END -->
 
