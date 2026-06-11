@@ -36,6 +36,11 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [graphbrain](https://github.com/pkyanam/graphbrain)
+Hosted, graph-native memory and knowledge layer for AI agents, individuals, and teams — isolated Postgres per brain with pgvector + pgGraph, MCP-first.
+
+`🟦 TS` · ⭐ 3 · pushed today · [live ↗](https://pkyanam.github.io/graphbrain/)
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -44,7 +49,7 @@ _no description yet_
 ### [trifecta](https://github.com/pkyanam/trifecta)
 Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere.
 
-`🟦 TS` · ⭐ 19 · pushed yesterday · [live ↗](https://trifecta.belweave.ai/)
+`🟦 TS` · ⭐ 19 · pushed 2 days ago · [live ↗](https://trifecta.belweave.ai/)
 
 ### [brainbase](https://github.com/pkyanam/brainbase)
 Brainbase is a knowledge graph API for AI agents.
@@ -61,12 +66,7 @@ Codex app for iOS + Codex SDK for Swift
 
 `🦅 Swift` · ⭐ 3 · pushed 1 month ago
 
-### [jellyflex](https://github.com/pkyanam/jellyflex)
-_no description yet_
-
-`🟨 JS` · ⭐ 3 · pushed 1 month ago
-
-<sub>Showing 6 of 28 public, non-fork repos · last updated 2026-06-10</sub>
+<sub>Showing 6 of 28 public, non-fork repos · last updated 2026-06-11</sub>
 
 <!-- LATEST_REPOS:END -->
 
