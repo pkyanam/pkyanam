@@ -36,6 +36,11 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [wander](https://github.com/pkyanam/wander)
+Wander into wonder. One tap, one beautiful destination at a time — a calm, curated way to rediscover the most delightful corners of the web.
+
+`🟦 TS` · pushed today · [live ↗](https://wander.preetham.org)
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -44,12 +49,12 @@ _no description yet_
 ### [graphbrain](https://github.com/pkyanam/graphbrain)
 Hosted, graph-native memory and knowledge layer for AI agents, individuals, and teams — isolated Postgres per brain with pgvector + pgGraph, MCP-first.
 
-`🟦 TS` · ⭐ 3 · pushed 2 days ago
+`🟦 TS` · ⭐ 3 · pushed 3 days ago
 
 ### [trifecta](https://github.com/pkyanam/trifecta)
 Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere.
 
-`🟦 TS` · ⭐ 19 · pushed 4 days ago · [live ↗](https://trifecta.belweave.ai/)
+`🟦 TS` · ⭐ 19 · pushed 5 days ago · [live ↗](https://trifecta.belweave.ai/)
 
 ### [brainbase](https://github.com/pkyanam/brainbase)
 Brainbase is a knowledge graph API for AI agents.
@@ -61,12 +66,7 @@ T3 Code is a minimal iOS GUI for coding agents
 
 `🦅 Swift` · ⭐ 3 · pushed 1 month ago
 
-### [codex-ios](https://github.com/pkyanam/codex-ios)
-Codex app for iOS + Codex SDK for Swift
-
-`🦅 Swift` · ⭐ 3 · pushed 1 month ago
-
-<sub>Showing 6 of 28 public, non-fork repos · last updated 2026-06-13</sub>
+<sub>Showing 6 of 29 public, non-fork repos · last updated 2026-06-14</sub>
 
 <!-- LATEST_REPOS:END -->
 
