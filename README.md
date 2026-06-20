@@ -44,29 +44,29 @@ _no description yet_
 ### [keystore](https://github.com/pkyanam/keystore)
 A lightweight macOS menu bar app for storing key–value secrets — API keys, temporary passwords, recovery codes, and anything else you need quick, private access to — from one simple interface that lives in your menu bar.
 
-`🦅 Swift` · pushed 4 days ago
+`🦅 Swift` · pushed 5 days ago
 
 ### [wander](https://github.com/pkyanam/wander)
 Wander into wonder. One tap, one beautiful destination at a time — a calm, curated way to rediscover the most delightful corners of the web.
 
-`🟦 TS` · pushed 5 days ago · [live ↗](https://wander.preetham.org)
+`🟦 TS` · pushed 6 days ago · [live ↗](https://wander.preetham.org)
 
 ### [graphbrain](https://github.com/pkyanam/graphbrain)
 Hosted, graph-native memory and knowledge layer for AI agents, individuals, and teams — isolated Postgres per brain with pgvector + pgGraph, MCP-first.
 
-`🟦 TS` · ⭐ 3 · pushed 8 days ago
+`🟦 TS` · ⭐ 3 · pushed 9 days ago
 
 ### [trifecta](https://github.com/pkyanam/trifecta)
 Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere.
 
-`🟦 TS` · ⭐ 20 · pushed 10 days ago · [live ↗](https://trifecta.belweave.ai/)
+`🟦 TS` · ⭐ 20 · pushed 11 days ago · [live ↗](https://trifecta.belweave.ai/)
 
 ### [brainbase](https://github.com/pkyanam/brainbase)
 Brainbase is a knowledge graph API for AI agents.
 
 `🟦 TS` · ⭐ 7 · pushed 1 month ago · [live ↗](https://www.belweave.ai)
 
-<sub>Showing 6 of 30 public, non-fork repos · last updated 2026-06-19</sub>
+<sub>Showing 6 of 30 public, non-fork repos · last updated 2026-06-20</sub>
 
 <!-- LATEST_REPOS:END -->
 
