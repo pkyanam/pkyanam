@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [OpenLid](https://github.com/pkyanam/OpenLid)
-OpenLid is a free, open-source macOS menu bar utility that keeps your Mac awake while your AI coding agents finish the job, then lets it sleep automatically once they are done.
-
-`🦅 Swift` · pushed today
-
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [OpenLid](https://github.com/pkyanam/OpenLid)
+OpenLid is a free, open-source macOS menu bar utility that keeps your Mac awake while your AI coding agents finish the job, then lets it sleep automatically once they are done.
+
+`🦅 Swift` · pushed yesterday
+
 ### [keystore](https://github.com/pkyanam/keystore)
 A lightweight macOS menu bar app for storing key–value secrets — API keys, temporary passwords, recovery codes, and anything else you need quick, private access to — from one simple interface that lives in your menu bar.
 
-`🦅 Swift` · pushed 7 days ago
+`🦅 Swift` · pushed 8 days ago
 
 ### [wander](https://github.com/pkyanam/wander)
 Wander into wonder. One tap, one beautiful destination at a time — a calm, curated way to rediscover the most delightful corners of the web.
 
-`🟦 TS` · pushed 8 days ago · [live ↗](https://wander.preetham.org)
+`🟦 TS` · pushed 9 days ago · [live ↗](https://wander.preetham.org)
 
 ### [graphbrain](https://github.com/pkyanam/graphbrain)
 Hosted, graph-native memory and knowledge layer for AI agents, individuals, and teams — isolated Postgres per brain with pgvector + pgGraph, MCP-first.
 
-`🟦 TS` · ⭐ 3 · pushed 11 days ago
+`🟦 TS` · ⭐ 3 · pushed 12 days ago
 
 ### [trifecta](https://github.com/pkyanam/trifecta)
 Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere.
 
-`🟦 TS` · ⭐ 20 · pushed 13 days ago · [live ↗](https://trifecta.belweave.ai/)
+`🟦 TS` · ⭐ 20 · pushed 14 days ago · [live ↗](https://trifecta.belweave.ai/)
 
-<sub>Showing 6 of 31 public, non-fork repos · last updated 2026-06-22</sub>
+<sub>Showing 6 of 31 public, non-fork repos · last updated 2026-06-23</sub>
 
 <!-- LATEST_REPOS:END -->
 
