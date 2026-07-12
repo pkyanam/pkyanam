@@ -49,24 +49,24 @@ _no description yet_
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 4 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 5 days ago · [live ↗](https://opencatalog.sh)
 
 ### [OpenPutback](https://github.com/pkyanam/OpenPutback)
 OpenPutback is a free, open-source macOS menu bar app that remembers window layouts per display configuration and restores them automatically after monitor changes.
 
-`🦅 Swift` · pushed 6 days ago
+`🦅 Swift` · pushed 7 days ago
 
 ### [github-menu-bar](https://github.com/pkyanam/github-menu-bar)
 create new repos easily for your agents.
 
-`🦅 Swift` · pushed 7 days ago
+`🦅 Swift` · pushed 8 days ago
 
 ### [Triangle](https://github.com/pkyanam/Triangle)
 An agentic development engine for Three.js
 
-`🟦 TS` · pushed 13 days ago
+`🟦 TS` · pushed 14 days ago
 
-<sub>Showing 6 of 35 public, non-fork repos · last updated 2026-07-11</sub>
+<sub>Showing 6 of 35 public, non-fork repos · last updated 2026-07-12</sub>
 
 <!-- LATEST_REPOS:END -->
 
