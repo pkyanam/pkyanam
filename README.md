@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
-
-`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
-
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+
+`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+
 ### [trifecta](https://github.com/pkyanam/trifecta)
 Trifecta is a cross-platform coding agent platform. It consists of a desktop server that runs AI coding agents, plus native mobile clients for iOS and Android that let you chat with your agent, review changes, and manage your development workflow from anywhere.
 
-`🟦 TS` · ⭐ 20 · pushed 2 days ago · [live ↗](https://belweave.ai/trifecta)
+`🟦 TS` · ⭐ 20 · pushed 3 days ago · [live ↗](https://belweave.ai/trifecta)
 
 ### [OpenPutback](https://github.com/pkyanam/OpenPutback)
 OpenPutback is a free, open-source macOS menu bar app that remembers window layouts per display configuration and restores them automatically after monitor changes.
 
-`🦅 Swift` · pushed 9 days ago
+`🦅 Swift` · pushed 10 days ago
 
 ### [github-menu-bar](https://github.com/pkyanam/github-menu-bar)
 create new repos easily for your agents.
 
-`🦅 Swift` · pushed 10 days ago
+`🦅 Swift` · pushed 11 days ago
 
 ### [Triangle](https://github.com/pkyanam/Triangle)
 An agentic development engine for Three.js
 
-`🟦 TS` · pushed 16 days ago
+`🟦 TS` · pushed 17 days ago
 
-<sub>Showing 6 of 35 public, non-fork repos · last updated 2026-07-14</sub>
+<sub>Showing 6 of 35 public, non-fork repos · last updated 2026-07-15</sub>
 
 <!-- LATEST_REPOS:END -->
 
