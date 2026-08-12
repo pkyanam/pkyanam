@@ -46,27 +46,27 @@ Native Spotify playback and voice control for OpenHome speakers
 
 `🟦 TS` · pushed today
 
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
-
-`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
-
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+
+`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+
 ### [router-taxi-hackathon](https://github.com/pkyanam/router-taxi-hackathon)
 Judge guide for router.taxi's OpenAI, Linq, Prava, and private Android agentic-commerce flow
 
-`—` · pushed 8 days ago
+`—` · pushed 9 days ago
 
 ### [login-with-claude-sdk](https://github.com/pkyanam/login-with-claude-sdk)
 Let users sign in with Claude and bring their subscription to your app.
 
-`🟦 TS` · ⭐ 1 · pushed 25 days ago
+`🟦 TS` · ⭐ 1 · pushed 26 days ago
 
-<sub>Showing 6 of 39 public, non-fork repos · last updated 2026-08-11</sub>
+<sub>Showing 6 of 39 public, non-fork repos · last updated 2026-08-12</sub>
 
 <!-- LATEST_REPOS:END -->
 
