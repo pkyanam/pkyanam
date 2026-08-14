@@ -44,29 +44,29 @@ _no description yet_
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · pushed yesterday · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [openhome-spotify](https://github.com/pkyanam/openhome-spotify)
 Native Spotify playback and voice control for OpenHome speakers
 
-`🟦 TS` · pushed yesterday
+`🟦 TS` · pushed 2 days ago
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 3 days ago · [live ↗](https://opencatalog.sh)
 
 ### [router-taxi-hackathon](https://github.com/pkyanam/router-taxi-hackathon)
 Judge guide for router.taxi's OpenAI, Linq, Prava, and private Android agentic-commerce flow
 
-`—` · pushed 10 days ago
+`—` · pushed 11 days ago
 
 ### [login-with-claude-sdk](https://github.com/pkyanam/login-with-claude-sdk)
 Let users sign in with Claude and bring their subscription to your app.
 
-`🟦 TS` · ⭐ 1 · pushed 27 days ago
+`🟦 TS` · ⭐ 1 · pushed 28 days ago
 
-<sub>Showing 6 of 39 public, non-fork repos · last updated 2026-08-13</sub>
+<sub>Showing 6 of 39 public, non-fork repos · last updated 2026-08-14</sub>
 
 <!-- LATEST_REPOS:END -->
 
