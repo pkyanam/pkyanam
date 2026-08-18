@@ -36,6 +36,11 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+
+`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -44,29 +49,24 @@ _no description yet_
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · pushed 2 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · pushed 3 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [openhome-spotify](https://github.com/pkyanam/openhome-spotify)
 Native Spotify playback and voice control for OpenHome speakers
 
-`🟦 TS` · pushed 5 days ago
-
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
-
-`🟦 TS` · pushed 6 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 6 days ago
 
 ### [router-taxi-hackathon](https://github.com/pkyanam/router-taxi-hackathon)
 Judge guide for router.taxi's OpenAI, Linq, Prava, and private Android agentic-commerce flow
 
-`—` · pushed 14 days ago
+`—` · pushed 15 days ago
 
 ### [login-with-claude-sdk](https://github.com/pkyanam/login-with-claude-sdk)
 Let users sign in with Claude and bring their subscription to your app.
 
 `🟦 TS` · ⭐ 1 · pushed 1 month ago
 
-<sub>Showing 6 of 39 public, non-fork repos · last updated 2026-08-17</sub>
+<sub>Showing 6 of 39 public, non-fork repos · last updated 2026-08-18</sub>
 
 <!-- LATEST_REPOS:END -->
 
