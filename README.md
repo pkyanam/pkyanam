@@ -44,29 +44,29 @@ _no description yet_
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 5 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 7 days ago · [live ↗](https://opencatalog.sh)
 
 ### [ridgewake-os](https://github.com/pkyanam/ridgewake-os)
 Ridgewake OS: a build-in-public, non-Linux bare-metal OS and AI agent harness for Raspberry Pi 4 Model B
 
-`🦀 Rust` · pushed 8 days ago · [live ↗](https://belweave.ai/ridgewake)
+`🦀 Rust` · pushed 9 days ago · [live ↗](https://belweave.ai/ridgewake)
 
 ### [openhome-spotify](https://github.com/pkyanam/openhome-spotify)
 Native Spotify playback and voice control for OpenHome speakers
 
-`🟦 TS` · pushed 18 days ago
+`🟦 TS` · pushed 19 days ago
 
 ### [router-taxi-hackathon](https://github.com/pkyanam/router-taxi-hackathon)
 Judge guide for router.taxi's OpenAI, Linq, Prava, and private Android agentic-commerce flow
 
-`—` · pushed 27 days ago
+`—` · pushed 28 days ago
 
-<sub>Showing 6 of 41 public, non-fork repos · last updated 2026-08-30</sub>
+<sub>Showing 6 of 41 public, non-fork repos · last updated 2026-08-31</sub>
 
 <!-- LATEST_REPOS:END -->
 
