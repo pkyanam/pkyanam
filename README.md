@@ -36,6 +36,11 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
+Omarchy Quattro for Raspberry Pi 4 — reproducible ARM64 images, Pi-aware install tooling, and tiny-board energy.
+
+`Shell` · pushed today
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -44,29 +49,24 @@ _no description yet_
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
 
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed 4 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 5 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [ridgewake-os](https://github.com/pkyanam/ridgewake-os)
 Ridgewake OS: a build-in-public, non-Linux bare-metal OS and AI agent harness for Raspberry Pi 4 Model B
 
-`🦀 Rust` · pushed 11 days ago · [live ↗](https://belweave.ai/ridgewake)
+`🦀 Rust` · pushed 12 days ago · [live ↗](https://belweave.ai/ridgewake)
 
 ### [openhome-spotify](https://github.com/pkyanam/openhome-spotify)
 Native Spotify playback and voice control for OpenHome speakers
 
-`🟦 TS` · pushed 21 days ago
+`🟦 TS` · pushed 22 days ago
 
-### [router-taxi-hackathon](https://github.com/pkyanam/router-taxi-hackathon)
-Judge guide for router.taxi's OpenAI, Linq, Prava, and private Android agentic-commerce flow
-
-`—` · pushed 1 month ago
-
-<sub>Showing 6 of 41 public, non-fork repos · last updated 2026-09-02</sub>
+<sub>Showing 6 of 42 public, non-fork repos · last updated 2026-09-03</sub>
 
 <!-- LATEST_REPOS:END -->
 
