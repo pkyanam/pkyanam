@@ -49,24 +49,24 @@ _no description yet_
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 3 days ago · [live ↗](https://opencatalog.sh)
 
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed 5 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 6 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [ridgewake-os](https://github.com/pkyanam/ridgewake-os)
 Ridgewake OS: a build-in-public, non-Linux bare-metal OS and AI agent harness for Raspberry Pi 4 Model B
 
-`🦀 Rust` · pushed 12 days ago · [live ↗](https://belweave.ai/ridgewake)
+`🦀 Rust` · pushed 13 days ago · [live ↗](https://belweave.ai/ridgewake)
 
 ### [openhome-spotify](https://github.com/pkyanam/openhome-spotify)
 Native Spotify playback and voice control for OpenHome speakers
 
-`🟦 TS` · pushed 22 days ago
+`🟦 TS` · pushed 23 days ago
 
-<sub>Showing 6 of 42 public, non-fork repos · last updated 2026-09-03</sub>
+<sub>Showing 6 of 42 public, non-fork repos · last updated 2026-09-04</sub>
 
 <!-- LATEST_REPOS:END -->
 
