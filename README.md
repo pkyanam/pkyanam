@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
-Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
-
-`Shell` · pushed today
-
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
+Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
+
+`Shell` · pushed yesterday
+
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 4 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 5 days ago · [live ↗](https://opencatalog.sh)
 
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed 7 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 8 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [ridgewake-os](https://github.com/pkyanam/ridgewake-os)
 Ridgewake OS: a build-in-public, non-Linux bare-metal OS and AI agent harness for Raspberry Pi 4 Model B
 
-`🦀 Rust` · pushed 14 days ago · [live ↗](https://belweave.ai/ridgewake)
+`🦀 Rust` · pushed 15 days ago · [live ↗](https://belweave.ai/ridgewake)
 
 ### [openhome-spotify](https://github.com/pkyanam/openhome-spotify)
 Native Spotify playback and voice control for OpenHome speakers
 
-`🟦 TS` · pushed 24 days ago
+`🟦 TS` · pushed 25 days ago
 
-<sub>Showing 6 of 42 public, non-fork repos · last updated 2026-09-05</sub>
+<sub>Showing 6 of 42 public, non-fork repos · last updated 2026-09-06</sub>
 
 <!-- LATEST_REPOS:END -->
 
