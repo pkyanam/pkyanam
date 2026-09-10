@@ -36,6 +36,16 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [WumpaForge](https://github.com/pkyanam/WumpaForge)
+Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
+
+`🔧 C` · pushed today
+
+### [docs](https://github.com/pkyanam/docs)
+_no description yet_
+
+`📝 MDX` · ⭐ 1 · pushed today
+
 ### [VolumeBar](https://github.com/pkyanam/VolumeBar)
 Native macOS menu bar mixer with per-app volume, mute, and master control. No audio driver required.
 
@@ -44,29 +54,19 @@ Native macOS menu bar mixer with per-app volume, mute, and master control. No au
 ### [Belmivo](https://github.com/pkyanam/Belmivo)
 Self-hosted iMessage bridge to Codex on your Mac. Apache-2.0.
 
-`🟦 TS` · pushed today · [live ↗](https://pkyanam.github.io/Belmivo/)
-
-### [docs](https://github.com/pkyanam/docs)
-_no description yet_
-
-`📝 MDX` · ⭐ 1 · pushed today
+`🟦 TS` · pushed yesterday · [live ↗](https://pkyanam.github.io/Belmivo/)
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
 
 ### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
 Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
 
-`Shell` · pushed 4 days ago
+`Shell` · pushed 5 days ago
 
-### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
-Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
-
-`🟦 TS` · ⭐ 1 · pushed 11 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
-
-<sub>Showing 6 of 44 public, non-fork repos · last updated 2026-09-09</sub>
+<sub>Showing 6 of 45 public, non-fork repos · last updated 2026-09-10</sub>
 
 <!-- LATEST_REPOS:END -->
 
