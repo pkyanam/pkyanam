@@ -41,6 +41,11 @@ Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own 
 
 `🔧 C` · pushed today
 
+### [ArduRoomba](https://github.com/pkyanam/ArduRoomba)
+This library built for the Arduino IDE allows an Arduino Uno to interface with iRobot Roomba models adhering to Create 2 OI spec. Specific model compatibility can be found below.
+
+`🔧 C++` · ⭐ 41 · pushed today · [live ↗](https://deepwiki.com/pkyanam/ArduRoomba)
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -49,24 +54,19 @@ _no description yet_
 ### [VolumeBar](https://github.com/pkyanam/VolumeBar)
 Native macOS menu bar mixer with per-app volume, mute, and master control. No audio driver required.
 
-`🦅 Swift` · pushed today
+`🦅 Swift` · pushed yesterday
 
 ### [Belmivo](https://github.com/pkyanam/Belmivo)
 Self-hosted iMessage bridge to Codex on your Mac. Apache-2.0.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://pkyanam.github.io/Belmivo/)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://pkyanam.github.io/Belmivo/)
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 3 days ago · [live ↗](https://opencatalog.sh)
 
-### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
-Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
-
-`Shell` · pushed 5 days ago
-
-<sub>Showing 6 of 45 public, non-fork repos · last updated 2026-09-10</sub>
+<sub>Showing 6 of 45 public, non-fork repos · last updated 2026-09-11</sub>
 
 <!-- LATEST_REPOS:END -->
 
