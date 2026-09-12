@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [WumpaForge](https://github.com/pkyanam/WumpaForge)
-Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
+### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
+Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🔧 C` · pushed today
+`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
-### [ArduRoomba](https://github.com/pkyanam/ArduRoomba)
-This library built for the Arduino IDE allows an Arduino Uno to interface with iRobot Roomba models adhering to Create 2 OI spec. Specific model compatibility can be found below.
+### [OpenDevin](https://github.com/pkyanam/OpenDevin)
+OpenAI-compatible bridge to Cognition Devin models (ConnectRPC GetChatMessage) + reverse-engineering docs
 
-`🔧 C++` · ⭐ 41 · pushed today · [live ↗](https://deepwiki.com/pkyanam/ArduRoomba)
+`🦀 Rust` · pushed today
 
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [WumpaForge](https://github.com/pkyanam/WumpaForge)
+Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
+
+`🔧 C` · pushed yesterday
+
+### [ArduRoomba](https://github.com/pkyanam/ArduRoomba)
+This library built for the Arduino IDE allows an Arduino Uno to interface with iRobot Roomba models adhering to Create 2 OI spec. Specific model compatibility can be found below.
+
+`🔧 C++` · ⭐ 41 · pushed yesterday · [live ↗](https://deepwiki.com/pkyanam/ArduRoomba)
+
 ### [VolumeBar](https://github.com/pkyanam/VolumeBar)
 Native macOS menu bar mixer with per-app volume, mute, and master control. No audio driver required.
 
-`🦅 Swift` · pushed yesterday
+`🦅 Swift` · pushed 2 days ago
 
-### [Belmivo](https://github.com/pkyanam/Belmivo)
-Self-hosted iMessage bridge to Codex on your Mac. Apache-2.0.
-
-`🟦 TS` · pushed 2 days ago · [live ↗](https://pkyanam.github.io/Belmivo/)
-
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
-
-`🟦 TS` · pushed 3 days ago · [live ↗](https://opencatalog.sh)
-
-<sub>Showing 6 of 45 public, non-fork repos · last updated 2026-09-11</sub>
+<sub>Showing 6 of 46 public, non-fork repos · last updated 2026-09-12</sub>
 
 <!-- LATEST_REPOS:END -->
 
