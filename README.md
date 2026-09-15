@@ -36,6 +36,16 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [agentcalc](https://github.com/pkyanam/agentcalc)
+A lightweight, agent-native calculator CLI: expressions, exact arithmetic, statistics, units, matrices, and Python/Node adapters. MIT licensed.
+
+`🐹 Go` · pushed today
+
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+
+`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -44,29 +54,19 @@ _no description yet_
 ### [oma-os](https://github.com/pkyanam/oma-os)
 An agent-native browser desktop with real local apps, Python, PostgreSQL, Just Bash and an AI workbench. MIT licensed.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://oma-os.preetham-981.workers.dev)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://oma-os.preetham-981.workers.dev)
 
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 3 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [OpenDevin](https://github.com/pkyanam/OpenDevin)
 OpenAI-compatible bridge to Cognition Devin models (ConnectRPC GetChatMessage) + reverse-engineering docs
 
-`🦀 Rust` · pushed 2 days ago
+`🦀 Rust` · pushed 3 days ago
 
-### [WumpaForge](https://github.com/pkyanam/WumpaForge)
-Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
-
-`🔧 C` · pushed 3 days ago
-
-### [ArduRoomba](https://github.com/pkyanam/ArduRoomba)
-This library built for the Arduino IDE allows an Arduino Uno to interface with iRobot Roomba models adhering to Create 2 OI spec. Specific model compatibility can be found below.
-
-`🔧 C++` · ⭐ 41 · pushed 3 days ago · [live ↗](https://deepwiki.com/pkyanam/ArduRoomba)
-
-<sub>Showing 6 of 47 public, non-fork repos · last updated 2026-09-14</sub>
+<sub>Showing 6 of 48 public, non-fork repos · last updated 2026-09-15</sub>
 
 <!-- LATEST_REPOS:END -->
 
