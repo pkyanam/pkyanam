@@ -44,29 +44,29 @@ _no description yet_
 ### [agentcalc](https://github.com/pkyanam/agentcalc)
 A lightweight, agent-native calculator CLI: expressions, exact arithmetic, statistics, units, matrices, and Python/Node adapters. MIT licensed.
 
-`🐹 Go` · pushed yesterday
+`🐹 Go` · pushed 2 days ago
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
 
 ### [oma-os](https://github.com/pkyanam/oma-os)
 An agent-native browser desktop with real local apps, Python, PostgreSQL, Just Bash and an AI workbench. MIT licensed.
 
-`🟦 TS` · pushed 3 days ago · [live ↗](https://oma-os.preetham-981.workers.dev)
+`🟦 TS` · pushed 4 days ago · [live ↗](https://oma-os.preetham-981.workers.dev)
 
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed 4 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 5 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [OpenDevin](https://github.com/pkyanam/OpenDevin)
 OpenAI-compatible bridge to Cognition Devin models (ConnectRPC GetChatMessage) + reverse-engineering docs
 
-`🦀 Rust` · pushed 4 days ago
+`🦀 Rust` · pushed 5 days ago
 
-<sub>Showing 6 of 48 public, non-fork repos · last updated 2026-09-16</sub>
+<sub>Showing 6 of 48 public, non-fork repos · last updated 2026-09-17</sub>
 
 <!-- LATEST_REPOS:END -->
 
