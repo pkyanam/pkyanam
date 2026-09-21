@@ -36,6 +36,11 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [opencode-bot](https://github.com/pkyanam/opencode-bot)
+Persistent OpenCode-powered bots with a shared computer, live browser, and Telegram. Self-hosted on Cloudflare.
+
+`🟦 TS` · pushed today
+
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -44,29 +49,24 @@ _no description yet_
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
 ### [agentcalc](https://github.com/pkyanam/agentcalc)
 A lightweight, agent-native calculator CLI: expressions, exact arithmetic, statistics, units, matrices, and Python/Node adapters. MIT licensed.
 
-`🐹 Go` · pushed 5 days ago
+`🐹 Go` · pushed 6 days ago
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 5 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 6 days ago · [live ↗](https://opencatalog.sh)
 
 ### [oma-os](https://github.com/pkyanam/oma-os)
 An agent-native browser desktop with real local apps, Python, PostgreSQL, Just Bash and an AI workbench. MIT licensed.
 
-`🟦 TS` · pushed 7 days ago · [live ↗](https://oma-os.preetham-981.workers.dev)
+`🟦 TS` · pushed 8 days ago · [live ↗](https://oma-os.preetham-981.workers.dev)
 
-### [OpenDevin](https://github.com/pkyanam/OpenDevin)
-OpenAI-compatible bridge to Cognition Devin models (ConnectRPC GetChatMessage) + reverse-engineering docs
-
-`🦀 Rust` · pushed 8 days ago
-
-<sub>Showing 6 of 48 public, non-fork repos · last updated 2026-09-20</sub>
+<sub>Showing 6 of 49 public, non-fork repos · last updated 2026-09-21</sub>
 
 <!-- LATEST_REPOS:END -->
 
