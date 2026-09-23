@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [pk](https://github.com/pkyanam/pk)
+pk is a terminal coding workspace.
+
+`🐹 Go` · pushed today
+
+### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
+Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
+
+`Shell` · ⭐ 1 · pushed today
+
 ### [opencode-bot](https://github.com/pkyanam/opencode-bot)
 Persistent OpenCode-powered bots with a shared computer, live browser, and Telegram. Self-hosted on Cloudflare.
 
 `🟦 TS` · pushed today · [live ↗](https://pkyanam.github.io/opencode-bot/)
-
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
-
-`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
 
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+
+`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+
 ### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
 Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
 
-`🟦 TS` · ⭐ 1 · pushed 3 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed 4 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
 
-### [agentcalc](https://github.com/pkyanam/agentcalc)
-A lightweight, agent-native calculator CLI: expressions, exact arithmetic, statistics, units, matrices, and Python/Node adapters. MIT licensed.
-
-`🐹 Go` · pushed 7 days ago
-
-### [oma-os](https://github.com/pkyanam/oma-os)
-An agent-native browser desktop with real local apps, Python, PostgreSQL, Just Bash and an AI workbench. MIT licensed.
-
-`🟦 TS` · pushed 9 days ago · [live ↗](https://oma-os.preetham-981.workers.dev)
-
-<sub>Showing 6 of 49 public, non-fork repos · last updated 2026-09-22</sub>
+<sub>Showing 6 of 50 public, non-fork repos · last updated 2026-09-23</sub>
 
 <!-- LATEST_REPOS:END -->
 
