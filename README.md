@@ -41,32 +41,32 @@ pk is a terminal coding workspace.
 
 `🐹 Go` · pushed today
 
-### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
-Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
+### [tisplay](https://github.com/pkyanam/tisplay)
+_no description yet_
 
-`Shell` · ⭐ 1 · pushed today
+`🐍 Py` · pushed today
 
-### [opencode-bot](https://github.com/pkyanam/opencode-bot)
-Persistent OpenCode-powered bots with a shared computer, live browser, and Telegram. Self-hosted on Cloudflare.
+### [WumpaForge](https://github.com/pkyanam/WumpaForge)
+Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
 
-`🟦 TS` · pushed today · [live ↗](https://pkyanam.github.io/opencode-bot/)
+`🔧 C` · pushed today
 
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
+Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+`Shell` · ⭐ 1 · pushed yesterday
 
-### [openhome-gpt-live](https://github.com/pkyanam/openhome-gpt-live)
-Wake-word GPT Live voice and Codex tool access for OpenHome DevKit speakers
+### [opencode-bot](https://github.com/pkyanam/opencode-bot)
+Persistent OpenCode-powered bots with a shared computer, live browser, and Telegram. Self-hosted on Cloudflare.
 
-`🟦 TS` · ⭐ 1 · pushed 4 days ago · [live ↗](https://pkyanam.github.io/openhome-gpt-live/)
+`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://pkyanam.github.io/opencode-bot/)
 
-<sub>Showing 6 of 50 public, non-fork repos · last updated 2026-09-23</sub>
+<sub>Showing 6 of 51 public, non-fork repos · last updated 2026-09-24</sub>
 
 <!-- LATEST_REPOS:END -->
 
