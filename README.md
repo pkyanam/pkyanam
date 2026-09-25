@@ -42,31 +42,31 @@ pk is a terminal coding workspace.
 `🐹 Go` · pushed today
 
 ### [tisplay](https://github.com/pkyanam/tisplay)
-_no description yet_
+View and control a computer's primary desktop from a terminal, including over SSH.
 
-`🐍 Py` · pushed today
-
-### [WumpaForge](https://github.com/pkyanam/WumpaForge)
-Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
-
-`🔧 C` · pushed today
+`🐍 Py` · ⭐ 2 · pushed today · [live ↗](https://pkyanam.github.io/tisplay/)
 
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [WumpaForge](https://github.com/pkyanam/WumpaForge)
+Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
+
+`🔧 C` · pushed yesterday
+
 ### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
 Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
 
-`Shell` · ⭐ 1 · pushed yesterday
+`Shell` · ⭐ 7 · pushed 2 days ago
 
 ### [opencode-bot](https://github.com/pkyanam/opencode-bot)
 Persistent OpenCode-powered bots with a shared computer, live browser, and Telegram. Self-hosted on Cloudflare.
 
-`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://pkyanam.github.io/opencode-bot/)
+`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://pkyanam.github.io/opencode-bot/)
 
-<sub>Showing 6 of 51 public, non-fork repos · last updated 2026-09-24</sub>
+<sub>Showing 6 of 51 public, non-fork repos · last updated 2026-09-25</sub>
 
 <!-- LATEST_REPOS:END -->
 
