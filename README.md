@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [opencode-opensky](https://github.com/pkyanam/opencode-opensky)
+_no description yet_
+
+`🟦 TS` · pushed today
+
+### [OpenSky](https://github.com/pkyanam/OpenSky)
+_no description yet_
+
+`🦅 Swift` · pushed today
+
 ### [tallyhand](https://github.com/pkyanam/tallyhand)
 _no description yet_
 
 `🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.vercel.app)
-
-### [pk](https://github.com/pkyanam/pk)
-pk is a terminal coding workspace.
-
-`🐹 Go` · pushed today
 
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [pk](https://github.com/pkyanam/pk)
+pk is a terminal coding workspace.
+
+`🐹 Go` · pushed yesterday
+
 ### [tisplay](https://github.com/pkyanam/tisplay)
 View and control a computer's primary desktop from a terminal, including over SSH.
 
-`🐍 Py` · ⭐ 3 · pushed yesterday · [live ↗](https://pkyanam.github.io/tisplay/)
+`🐍 Py` · ⭐ 3 · pushed 2 days ago · [live ↗](https://pkyanam.github.io/tisplay/)
 
-### [WumpaForge](https://github.com/pkyanam/WumpaForge)
-Native ARM64 Wrath of Cortex research and compatibility runtime. Bring your own Xbox game image.
-
-`🔧 C` · pushed 2 days ago
-
-### [omarchy-4-pi](https://github.com/pkyanam/omarchy-4-pi)
-Omarchy Quattro for Raspberry Pi 4 Model B (4GB+ RAM): flashable ARM64 images, Pi-aware updates, and agent-friendly workflows.
-
-`Shell` · ⭐ 9 · pushed 3 days ago
-
-<sub>Showing 6 of 51 public, non-fork repos · last updated 2026-09-26</sub>
+<sub>Showing 6 of 53 public, non-fork repos · last updated 2026-09-27</sub>
 
 <!-- LATEST_REPOS:END -->
 
