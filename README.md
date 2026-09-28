@@ -36,6 +36,16 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [tallyhand](https://github.com/pkyanam/tallyhand)
+_no description yet_
+
+`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.vercel.app)
+
+### [CPZeroJS](https://github.com/pkyanam/CPZeroJS)
+TypeScript application framework and native SDK for M5Stack Cardputer Zero
+
+`🟦 TS` · pushed today
+
 ### [opencode-opensky](https://github.com/pkyanam/opencode-opensky)
 _no description yet_
 
@@ -46,11 +56,6 @@ _no description yet_
 
 `🦅 Swift` · pushed today
 
-### [tallyhand](https://github.com/pkyanam/tallyhand)
-_no description yet_
-
-`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.vercel.app)
-
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
@@ -59,14 +64,9 @@ _no description yet_
 ### [pk](https://github.com/pkyanam/pk)
 pk is a terminal coding workspace.
 
-`🐹 Go` · pushed yesterday
+`🐹 Go` · pushed 2 days ago
 
-### [tisplay](https://github.com/pkyanam/tisplay)
-View and control a computer's primary desktop from a terminal, including over SSH.
-
-`🐍 Py` · ⭐ 3 · pushed 2 days ago · [live ↗](https://pkyanam.github.io/tisplay/)
-
-<sub>Showing 6 of 53 public, non-fork repos · last updated 2026-09-27</sub>
+<sub>Showing 6 of 54 public, non-fork repos · last updated 2026-09-28</sub>
 
 <!-- LATEST_REPOS:END -->
 
