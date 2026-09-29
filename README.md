@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [tallyhand](https://github.com/pkyanam/tallyhand)
-_no description yet_
-
-`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.vercel.app)
-
-### [CPZeroJS](https://github.com/pkyanam/CPZeroJS)
-TypeScript application framework and native SDK for M5Stack Cardputer Zero
+### [agora-payments](https://github.com/pkyanam/agora-payments)
+Merchant-aligned payments software with transparent costs and human-controlled agent access
 
 `🟦 TS` · pushed today
 
-### [opencode-opensky](https://github.com/pkyanam/opencode-opensky)
+### [agora-cli](https://github.com/pkyanam/agora-cli)
 _no description yet_
 
-`🟦 TS` · pushed today
+`🟨 JS` · pushed today
 
-### [OpenSky](https://github.com/pkyanam/OpenSky)
-_no description yet_
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🦅 Swift` · pushed today
+`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
 
 ### [docs](https://github.com/pkyanam/docs)
 _no description yet_
 
 `📝 MDX` · ⭐ 1 · pushed today
 
-### [pk](https://github.com/pkyanam/pk)
-pk is a terminal coding workspace.
+### [tallyhand](https://github.com/pkyanam/tallyhand)
+_no description yet_
 
-`🐹 Go` · pushed 2 days ago
+`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://tallyhand.vercel.app)
 
-<sub>Showing 6 of 54 public, non-fork repos · last updated 2026-09-28</sub>
+### [CPZeroJS](https://github.com/pkyanam/CPZeroJS)
+TypeScript application framework and native SDK for M5Stack Cardputer Zero
+
+`🟦 TS` · ⭐ 1 · pushed yesterday
+
+<sub>Showing 6 of 56 public, non-fork repos · last updated 2026-09-29</sub>
 
 <!-- LATEST_REPOS:END -->
 
