@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [halo-ce-apple-silicon](https://github.com/pkyanam/halo-ce-apple-silicon)
+Experimental Apple Silicon native Halo source build tooling; bring your own supported Xbox disc image.
+
+`🔧 C` · ⭐ 2 · pushed today
+
 ### [agora-payments](https://github.com/pkyanam/agora-payments)
 Merchant-aligned payments software with transparent costs and human-controlled agent access
 
 `🟦 TS` · pushed today
 
 ### [agora-cli](https://github.com/pkyanam/agora-cli)
-_no description yet_
+CLI and TypeScript client for Agora sales workflows: products, customers, quotes, orders, payments, and fulfillment.
 
 `🟨 JS` · pushed today
+
+### [docs](https://github.com/pkyanam/docs)
+Personal portfolio and project documentation for Preetham Kyanam, built with Mintlify.
+
+`📝 MDX` · ⭐ 1 · pushed today
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
-
-### [docs](https://github.com/pkyanam/docs)
-_no description yet_
-
-`📝 MDX` · ⭐ 1 · pushed today
+`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
 
 ### [tallyhand](https://github.com/pkyanam/tallyhand)
-_no description yet_
+Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
 
-`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://tallyhand.vercel.app)
+`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://tallyhand.vercel.app)
 
-### [CPZeroJS](https://github.com/pkyanam/CPZeroJS)
-TypeScript application framework and native SDK for M5Stack Cardputer Zero
-
-`🟦 TS` · ⭐ 1 · pushed yesterday
-
-<sub>Showing 6 of 56 public, non-fork repos · last updated 2026-09-29</sub>
+<sub>Showing 6 of 57 public, non-fork repos · last updated 2026-09-30</sub>
 
 <!-- LATEST_REPOS:END -->
 
