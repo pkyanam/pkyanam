@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [halo-ce-apple-silicon](https://github.com/pkyanam/halo-ce-apple-silicon)
-Experimental Apple Silicon native Halo source build tooling; bring your own supported Xbox disc image.
+### [tallyhand](https://github.com/pkyanam/tallyhand)
+Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
 
-`🔧 C` · ⭐ 2 · pushed today
-
-### [agora-payments](https://github.com/pkyanam/agora-payments)
-Merchant-aligned payments software with transparent costs and human-controlled agent access
-
-`🟦 TS` · pushed today
-
-### [agora-cli](https://github.com/pkyanam/agora-cli)
-CLI and TypeScript client for Agora sales workflows: products, customers, quotes, orders, payments, and fulfillment.
-
-`🟨 JS` · pushed today
+`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.vercel.app)
 
 ### [docs](https://github.com/pkyanam/docs)
 Personal portfolio and project documentation for Preetham Kyanam, built with Mintlify.
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [halo-ce-apple-silicon](https://github.com/pkyanam/halo-ce-apple-silicon)
+Experimental Apple Silicon native Halo source build tooling; bring your own supported Xbox disc image.
+
+`🔧 C` · ⭐ 6 · pushed yesterday
+
+### [agora-payments](https://github.com/pkyanam/agora-payments)
+Merchant-aligned payments software with transparent costs and human-controlled agent access
+
+`🟦 TS` · pushed yesterday
+
+### [agora-cli](https://github.com/pkyanam/agora-cli)
+CLI and TypeScript client for Agora sales workflows: products, customers, quotes, orders, payments, and fulfillment.
+
+`🟨 JS` · pushed yesterday
+
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 2 days ago · [live ↗](https://opencatalog.sh)
 
-### [tallyhand](https://github.com/pkyanam/tallyhand)
-Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
-
-`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://tallyhand.vercel.app)
-
-<sub>Showing 6 of 57 public, non-fork repos · last updated 2026-09-30</sub>
+<sub>Showing 6 of 57 public, non-fork repos · last updated 2026-10-01</sub>
 
 <!-- LATEST_REPOS:END -->
 
