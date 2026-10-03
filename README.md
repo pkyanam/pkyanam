@@ -49,24 +49,24 @@ Personal portfolio and project documentation for Preetham Kyanam, built with Min
 ### [halo-ce-apple-silicon](https://github.com/pkyanam/halo-ce-apple-silicon)
 Experimental Apple Silicon native Halo source build tooling; bring your own supported Xbox disc image.
 
-`🔧 C` · ⭐ 8 · pushed 2 days ago
+`🔧 C` · ⭐ 10 · pushed 3 days ago
 
 ### [agora-payments](https://github.com/pkyanam/agora-payments)
 Merchant-aligned payments software with transparent costs and human-controlled agent access
 
-`🟦 TS` · pushed 2 days ago
+`🟦 TS` · pushed 3 days ago
 
 ### [agora-cli](https://github.com/pkyanam/agora-cli)
 CLI and TypeScript client for Agora sales workflows: products, customers, quotes, orders, payments, and fulfillment.
 
-`🟨 JS` · pushed 2 days ago
+`🟨 JS` · pushed 3 days ago
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 3 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 4 days ago · [live ↗](https://opencatalog.sh)
 
-<sub>Showing 6 of 57 public, non-fork repos · last updated 2026-10-02</sub>
+<sub>Showing 6 of 57 public, non-fork repos · last updated 2026-10-03</sub>
 
 <!-- LATEST_REPOS:END -->
 
