@@ -36,37 +36,37 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
-### [tallyhand](https://github.com/pkyanam/tallyhand)
-Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
+### [openlaunch](https://github.com/pkyanam/openlaunch)
+Agent-agnostic device bridge for Arduino Uno R4 WiFi and Raspberry Pi, with scoped capabilities and MCP integration.
 
-`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.xyz/)
-
-### [halo-ce-raspberry-pi](https://github.com/pkyanam/halo-ce-raspberry-pi)
-Native ARM64 Halo CE port with a Raspberry Pi installer, map import, and desktop launcher.
-
-`🔧 C` · pushed today
+`🟦 TS` · pushed today · [live ↗](https://openlaunch.dev)
 
 ### [docs](https://github.com/pkyanam/docs)
 Personal portfolio and project documentation for Preetham Kyanam, built with Mintlify.
 
 `📝 MDX` · ⭐ 1 · pushed today
 
+### [tallyhand](https://github.com/pkyanam/tallyhand)
+Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
+
+`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://tallyhand.xyz/)
+
+### [halo-ce-raspberry-pi](https://github.com/pkyanam/halo-ce-raspberry-pi)
+Native ARM64 Halo CE port with a Raspberry Pi installer, map import, and desktop launcher.
+
+`🔧 C` · pushed yesterday
+
 ### [halo-ce-apple-silicon](https://github.com/pkyanam/halo-ce-apple-silicon)
 Experimental Apple Silicon native Halo source build tooling; bring your own supported Xbox disc image.
 
-`🔧 C` · ⭐ 10 · pushed 4 days ago
+`🔧 C` · ⭐ 10 · pushed 5 days ago
 
 ### [agora-payments](https://github.com/pkyanam/agora-payments)
 Merchant-aligned payments software with transparent costs and human-controlled agent access
 
-`🟦 TS` · pushed 4 days ago
+`🟦 TS` · pushed 5 days ago
 
-### [agora-cli](https://github.com/pkyanam/agora-cli)
-CLI and TypeScript client for Agora sales workflows: products, customers, quotes, orders, payments, and fulfillment.
-
-`🟨 JS` · pushed 4 days ago
-
-<sub>Showing 6 of 58 public, non-fork repos · last updated 2026-10-04</sub>
+<sub>Showing 6 of 59 public, non-fork repos · last updated 2026-10-05</sub>
 
 <!-- LATEST_REPOS:END -->
 
