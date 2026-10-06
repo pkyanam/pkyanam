@@ -1,32 +1,10 @@
 # Hi, I'm Preetham 👋
 
-**Computer Engineer (Virginia Tech)** working at the intersection of **embedded systems, emulation, and AI agent infrastructure.**
+**Computer Engineer (Virginia Tech grad)** working at the intersection of **embedded systems, emulation, and AI agent infrastructure.**
 
 I like the layers — bytes on the wire, transistors on the board, and agents on top.
 
 🌐 [preetham.org](https://preetham.org)  ·  💼 [LinkedIn](https://linkedin.com/in/preethamkyanam)  ·  ✉️ kyanam.preetham@gmail.com
-
----
-
-## 🛠️ Things I'm proud of
-
-### 🦾 [ArduRoomba](https://github.com/pkyanam/ArduRoomba) — `C++` · ⭐ 37
-A modular Arduino library that breathes new life into legacy iRobot Roombas. Full Open Interface support, WiFi web control, and BLE for Arduino Uno R4, ESP32, and ESP8266. Published to the Arduino Library Manager and PlatformIO; [covered by Hackster.io](https://www.hackster.io/news/preetham-kyanam-s-arduroomba-library-puts-your-irobot-roomba-under-arduino-uno-control-147bfae136c6).
-
-### 📦 [pkstack](https://github.com/pkyanam/pkstack) — `TypeScript` · ⭐ 8
-A TypeScript starter kit designed from first principles for **human + AI agent co-development** — the conventions, tooling, and folder layout I wish existed when I started building agents.
-
-### 🧠 [brainbase](https://github.com/pkyanam/brainbase) + [graphbrain](https://github.com/pkyanam/graphbrain) — `TypeScript`
-A knowledge-graph API for AI agents, plus a Neo4j-powered backend with one-click provisioning. Drop-in compatible with the GBrain agent stack. Powering [belweave.ai](https://www.belweave.ai).
-
-### 🎮 [gba-next](https://github.com/pkyanam/gba-next) — `TypeScript`
-A Game Boy Advance emulator built in Next.js with ARM7TDMI CPU emulation, running entirely in the browser. [Try it →](https://gba.agentmeld.com)
-
-### 📱 [codex-ios](https://github.com/pkyanam/codex-ios) — `Swift`
-A native iOS app for OpenAI Codex, plus a Swift SDK for the Codex API. Currently in active development.
-
-### 🔌 [claude-ps5-mcp](https://github.com/pkyanam/claude-ps5-mcp) — `TypeScript`
-An MCP server that lets Claude Code discover and wake PS5 consoles on your local network. PSN auth, UDP discovery, and wake-on-LAN, all via natural language. Published to npm.
 
 ---
 
