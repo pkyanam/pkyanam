@@ -36,10 +36,20 @@ An MCP server that lets Claude Code discover and wake PS5 consoles on your local
 
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
+### [dbSDK](https://github.com/pkyanam/dbSDK)
+dbSDK — one TypeScript client for your databases. Start with PostgreSQL: Supabase and Neon.
+
+`🟦 TS` · pushed today
+
 ### [openlaunch](https://github.com/pkyanam/openlaunch)
 Agent-agnostic device bridge for Arduino Uno R4 WiFi and Raspberry Pi, with scoped capabilities and MCP integration.
 
 `🟦 TS` · pushed today · [live ↗](https://openlaunch.dev)
+
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
+
+`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
 
 ### [docs](https://github.com/pkyanam/docs)
 Personal portfolio and project documentation for Preetham Kyanam, built with Mintlify.
@@ -49,24 +59,14 @@ Personal portfolio and project documentation for Preetham Kyanam, built with Min
 ### [tallyhand](https://github.com/pkyanam/tallyhand)
 Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
 
-`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://tallyhand.xyz/)
+`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://tallyhand.xyz/)
 
 ### [halo-ce-raspberry-pi](https://github.com/pkyanam/halo-ce-raspberry-pi)
 Native ARM64 Halo CE port with a Raspberry Pi installer, map import, and desktop launcher.
 
-`🔧 C` · pushed yesterday
+`🔧 C` · pushed 2 days ago
 
-### [halo-ce-apple-silicon](https://github.com/pkyanam/halo-ce-apple-silicon)
-Experimental Apple Silicon native Halo source build tooling; bring your own supported Xbox disc image.
-
-`🔧 C` · ⭐ 10 · pushed 5 days ago
-
-### [agora-payments](https://github.com/pkyanam/agora-payments)
-Merchant-aligned payments software with transparent costs and human-controlled agent access
-
-`🟦 TS` · pushed 5 days ago
-
-<sub>Showing 6 of 59 public, non-fork repos · last updated 2026-10-05</sub>
+<sub>Showing 6 of 60 public, non-fork repos · last updated 2026-10-06</sub>
 
 <!-- LATEST_REPOS:END -->
 
