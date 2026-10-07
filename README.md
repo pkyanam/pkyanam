@@ -15,36 +15,36 @@ I like the layers — bytes on the wire, transistors on the board, and agents on
 > Auto-refreshed daily from the GitHub API — what I'm actively pushing to.
 
 ### [dbSDK](https://github.com/pkyanam/dbSDK)
-dbSDK — one TypeScript client for your databases. Start with PostgreSQL: Supabase and Neon.
+Create, manage, and query databases with one TypeScript SDK. Bring your provider credentials.
 
 `🟦 TS` · pushed today
+
+### [tallyhand](https://github.com/pkyanam/tallyhand)
+Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
+
+`🟦 TS` · ⭐ 1 · pushed today · [live ↗](https://tallyhand.xyz/)
 
 ### [openlaunch](https://github.com/pkyanam/openlaunch)
 Agent-agnostic device bridge for Arduino Uno R4 WiFi and Raspberry Pi, with scoped capabilities and MCP integration.
 
 `🟦 TS` · pushed today · [live ↗](https://openlaunch.dev)
 
-### [opencatalog](https://github.com/pkyanam/opencatalog)
-The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
-
-`🟦 TS` · pushed today · [live ↗](https://opencatalog.sh)
-
 ### [docs](https://github.com/pkyanam/docs)
 Personal portfolio and project documentation for Preetham Kyanam, built with Mintlify.
 
 `📝 MDX` · ⭐ 1 · pushed today
 
-### [tallyhand](https://github.com/pkyanam/tallyhand)
-Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
+### [opencatalog](https://github.com/pkyanam/opencatalog)
+The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://tallyhand.xyz/)
+`🟦 TS` · pushed yesterday · [live ↗](https://opencatalog.sh)
 
 ### [halo-ce-raspberry-pi](https://github.com/pkyanam/halo-ce-raspberry-pi)
 Native ARM64 Halo CE port with a Raspberry Pi installer, map import, and desktop launcher.
 
-`🔧 C` · pushed 2 days ago
+`🔧 C` · pushed 3 days ago
 
-<sub>Showing 6 of 60 public, non-fork repos · last updated 2026-10-06</sub>
+<sub>Showing 6 of 60 public, non-fork repos · last updated 2026-10-07</sub>
 
 <!-- LATEST_REPOS:END -->
 
