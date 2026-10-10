@@ -22,29 +22,29 @@ Personal portfolio and project documentation for Preetham Kyanam, built with Min
 ### [tallyhand](https://github.com/pkyanam/tallyhand)
 Local-first, self-hostable time tracking and invoicing for contractors, with a web app, CLI, and agent-friendly API.
 
-`🟦 TS` · ⭐ 1 · pushed yesterday · [live ↗](https://tallyhand.xyz/)
+`🟦 TS` · ⭐ 1 · pushed 2 days ago · [live ↗](https://tallyhand.xyz/)
 
 ### [dbSDK](https://github.com/pkyanam/dbSDK)
 Create, manage, and query databases with one TypeScript SDK. Bring your provider credentials.
 
-`🟦 TS` · pushed 2 days ago
+`🟦 TS` · pushed 3 days ago
 
 ### [openlaunch](https://github.com/pkyanam/openlaunch)
 Agent-agnostic device bridge for Arduino Uno R4 WiFi and Raspberry Pi, with scoped capabilities and MCP integration.
 
-`🟦 TS` · pushed 2 days ago · [live ↗](https://openlaunch.dev)
+`🟦 TS` · pushed 3 days ago · [live ↗](https://openlaunch.dev)
 
 ### [opencatalog](https://github.com/pkyanam/opencatalog)
 The map from paid software to serious FOSS alternatives. Every claim grounded, every install path verified, every gap labeled. Read the page or fetch /api.json.
 
-`🟦 TS` · pushed 3 days ago · [live ↗](https://opencatalog.sh)
+`🟦 TS` · pushed 4 days ago · [live ↗](https://opencatalog.sh)
 
 ### [halo-ce-raspberry-pi](https://github.com/pkyanam/halo-ce-raspberry-pi)
 Native ARM64 Halo CE port with a Raspberry Pi installer, map import, and desktop launcher.
 
-`🔧 C` · pushed 5 days ago
+`🔧 C` · pushed 6 days ago
 
-<sub>Showing 6 of 60 public, non-fork repos · last updated 2026-10-09</sub>
+<sub>Showing 6 of 60 public, non-fork repos · last updated 2026-10-10</sub>
 
 <!-- LATEST_REPOS:END -->
 
